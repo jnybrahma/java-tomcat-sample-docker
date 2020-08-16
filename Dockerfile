@@ -1,6 +1,6 @@
 FROM tomcat:8.0
 
-ADD **/*.war C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps
+ADD **/*.war
 
 EXPOSE 8080
 
