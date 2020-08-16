@@ -1,0 +1,7 @@
+
+PS C:\Users\Owner> docker images
+
+PS C:\Users\Owner> docker container run -p 9092:8080  92df5069a3ff
+
+% Open the web browser and type in address bar : localhost:9092:8080
+% check the tomcat is running at that port.
